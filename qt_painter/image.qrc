@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon/circle.png</file>
+        <file>icon/clear.png</file>
+        <file>icon/exit.png</file>
+        <file>icon/new.png</file>
+        <file>icon/open.png</file>
+        <file>icon/printer.png</file>
+        <file>icon/rect.png</file>
+        <file>icon/save.png</file>
+        <file>image/airplane.bmp</file>
+        <file>image/image.png</file>
+        <file>icon/color.png</file>
+    </qresource>
+</RCC>
