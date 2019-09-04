@@ -135,7 +135,3 @@ void MainWindow::ShowSizeSpinBox(int spinValue)//设置字号
     ui->textEdit->mergeCurrentCharFormat(fmt);
  }
 
-void MainWindow::on_cutAction_triggered()
-{
-
-}
